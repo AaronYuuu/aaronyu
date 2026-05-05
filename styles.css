@@ -31,7 +31,7 @@ body {
   color: var(--text);
   background-color: var(--bg-fallback);
   background-image: linear-gradient(rgba(233, 228, 218, 0.56), rgba(233, 228, 218, 0.56)),
-    url("/Users/aaronyu/.cursor/projects/Users-aaronyu-Documents-portfolio-aaronyu/assets/image-7239f12a-6be9-4eb4-9628-14a5785b850f.png");
+    url("background.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
